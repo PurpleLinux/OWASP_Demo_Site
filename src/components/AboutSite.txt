@@ -1,0 +1,1 @@
+This page is designed for cyber security professionals, HR professionals, and recruiters to showcase Jane Brown’s understanding of web application programming and security. The site will walk you through each of the OWASP TOP TEN, providing an explanation of what each vulnerability is and a simulated demonstration of the vulnerability in action.
